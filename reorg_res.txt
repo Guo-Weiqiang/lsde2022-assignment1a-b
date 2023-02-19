@@ -1,0 +1,11 @@
+starting to reduce the problem!
+person number is 499000
+remove count is 246845
+Reduce the problem successfully!
+starting to store data in columnar storage format!
+Output file successfully!
+starting to remove non-mutual friend!
+knows4 num is 1272533
+Remove non-mutual friend successfully!
+starting to build inverted index!
+Build inverted index successfully!
